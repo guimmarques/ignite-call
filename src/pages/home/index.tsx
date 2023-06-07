@@ -22,6 +22,7 @@ export default function Home() {
           </Text>
           <ClaimUsernameForm />
         </Hero>
+
         <Preview>
           <Image
             src={previewImage}
